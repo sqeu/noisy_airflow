@@ -213,7 +213,7 @@ Requires the [Astro CLI](https://docs.astronomer.io/astro/cli/install-cli) and D
 astro dev start          # builds and starts the Airflow containers
 ```
 
-1. Open the Airflow UI at <[http://localhost:8080](http://noisy-airflow.localhost:6563/)>.
+1. Open the Airflow UI at <http://noisy-airflow.localhost:6563>.
 2. Trigger a DAG (e.g. `seven_nation_army_slow_dag` to hear the pipeline, or
    `ode_to_joy_harmony_dag` for the full arrangement) and listen.
 
